@@ -1,10 +1,22 @@
 # Overview
 
+This document provides a comprehensive collection of technical articles and resources about GPU and AI accelerator cards, focusing on the following aspects:
+
+- Performance metrics and benchmarks for AI accelerator cards
+- NVIDIA GPU architectures, hardware evolution and characteristics
+- Huawei Ascend series NPU/GPU development
+- Domestic (Chinese) AI accelerator cards specifications and performance data
+
 - [Overview](#overview)
+  - [性能指标](#性能指标)
   - [NVIDIA](#nvidia)
   - [Ascend](#ascend)
   - [国产AI加速卡](#国产ai加速卡)
 
+## 性能指标
+
+- [AI加速卡性能指标详解](https://zhuanlan.zhihu.com/p/637125174)
+  
 ## NVIDIA
 
 - [GPU硬件的发展与特性分析](https://zhuanlan.zhihu.com/p/515584277)
