@@ -3,6 +3,7 @@
 - [Overview](#overview)
   - [NVIDIA](#nvidia)
   - [Ascend](#ascend)
+  - [国产AI加速卡](#国产ai加速卡)
 
 ## NVIDIA
 
@@ -17,3 +18,8 @@
 
 - [GPU 进阶笔记（二）：华为昇腾 910B GPU 相关（2023）](https://arthurchiao.art/blog/gpu-advanced-notes-2-zh/)
 - [GPU 进阶笔记（三）：华为 NPU/GPU 演进（2024）](https://arthurchiao.art/blog/gpu-advanced-notes-3-zh/)
+
+## 国产AI加速卡
+
+- [国产AI加速卡性能数据一览表](https://zhuanlan.zhihu.com/p/637119970)
+  - [完整【腾讯表格文档】](https://docs.qq.com/sheet/DVkZQTGlaY2lreXlQ?tab=BB08J2)
