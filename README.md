@@ -23,6 +23,7 @@ Official documentation data is collected here, for personal blogs please refer t
   - [Volta(2017)](#volta2017)
     - [Tesla/Datacenter](#tesladatacenter-5)
 - [AMD GPUs](#amd-gpus)
+- [TPU(Google)](#tpugoogle)
 - [国产 GPUs](#国产-gpus)
 
 # NVIDIA GPUs
@@ -134,6 +135,11 @@ ARCHITECTURE](https://www.nvidia.com/content/PDF/nvidia-ampere-ga-102-gpu-archit
 - AMD Instinct MI300X : [MI300X DataSheet](https://www.amd.com/content/dam/amd/en/documents/instinct-tech-docs/data-sheets/amd-instinct-mi300x-data-sheet.pdf)
 - AMD Instinct MI300A : [MI300A DataSheet](https://www.amd.com/content/dam/amd/en/documents/instinct-tech-docs/data-sheets/amd-instinct-mi300a-data-sheet.pdf)
 - …
+
+# TPU(Google)
+
+- [WIKI: Tensor Processing Unit ](https://en.wikipedia.org/wiki/Tensor_Processing_Unit)
+- [Google Clout: TPU arch](https://cloud.google.com/tpu/docs/system-architecture-tpu-vm#how_do_tpus_work)
 
 # 国产 GPUs
 
