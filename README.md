@@ -1,6 +1,7 @@
 # GPUs-Specs
 
-Summary of the Specs of Commonly Used GPUs for Training and Inference of LLM
+Summary of the Specs of Commonly Used GPUs for Training and Inference of LLMs.
+Official documentation data is collected here, for personal blogs please refer to [blog/README.md](https://github.com/WWWzq-01/GPU-Specs/blob/master/blog/README.md)
 
 - [GPUs-Specs](#gpus-specs)
 - [NVIDIA GPUs](#nvidia-gpus)
@@ -40,7 +41,7 @@ Summary of the Specs of Commonly Used GPUs for Training and Inference of LLM
 
  [RTX Blackwell GPU Arch whitepaper](https://images.nvidia.com/aem-dam/Solutions/geforce/blackwell/nvidia-rtx-blackwell-gpu-architecture.pdf)
 
-- GeForce RTX 5090 
+- GeForce RTX 5090
 - GeForce RTX 5080
 - GeForce RTX 5070
 
